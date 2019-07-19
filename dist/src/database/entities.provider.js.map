@@ -1,0 +1,1 @@
+{"version":3,"file":"entities.provider.js","sourceRoot":"","sources":["../../../src/database/entities.provider.ts"],"names":[],"mappings":";;AAAA,0DAA6C;AAC7C,0DAA6C;AAEhC,QAAA,gBAAgB,GAAG;IAC5B;QACI,OAAO,EAAE,cAAc;QACvB,QAAQ,EAAE,uBAAO;KACpB;IACD;QACI,OAAO,EAAE,cAAc;QACvB,QAAQ,EAAE,uBAAO;KACpB;CACJ,CAAC"}
